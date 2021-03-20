@@ -1,1 +1,2 @@
-install camelot, ghostscript
+install camelot
+ ghostscript
